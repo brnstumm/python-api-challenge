@@ -1,0 +1,3 @@
+1. I reached out to BCS learning Assistant to get help with setting up the api URL correctly.  
+2. I researched various codes for api and found the following to help piece together some of the code that I used in my work: https://github.com/mileslucey/weatherpy/blob/master/WeatherPy.ipynb, and another useful site to help piece the code was https://github.com/JLeigh101/python-api-challenge/tree/main/starter_code, and finally I got guideance from this site https://github.com/Sdailey40/WeatherPy/blob/master/WeatherPy_2.ipynb
+3. Working with api's is far more difficult than importing a CSV file and making changes.  
